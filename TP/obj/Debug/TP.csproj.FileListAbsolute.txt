@@ -1,0 +1,7 @@
+C:\Users\Rudolph Nativel\source\repos\TP\TP\bin\Debug\TP.exe.config
+C:\Users\Rudolph Nativel\source\repos\TP\TP\bin\Debug\TP.exe
+C:\Users\Rudolph Nativel\source\repos\TP\TP\bin\Debug\TP.pdb
+C:\Users\Rudolph Nativel\source\repos\TP\TP\obj\Debug\TP.csprojAssemblyReference.cache
+C:\Users\Rudolph Nativel\source\repos\TP\TP\obj\Debug\TP.csproj.CoreCompileInputs.cache
+C:\Users\Rudolph Nativel\source\repos\TP\TP\obj\Debug\TP.exe
+C:\Users\Rudolph Nativel\source\repos\TP\TP\obj\Debug\TP.pdb
